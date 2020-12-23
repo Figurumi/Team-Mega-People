@@ -3,4 +3,4 @@ string print_KAR()
 {
   return "Kirillina Ayaana Ruslanovna";
 }
-//Фанат BlackPink рулит
+//Работа не ждёт наших обещаний, но всегда награждает своих последователей (рабов)
