@@ -1,6 +1,6 @@
-#include<iostream>
+#include"fio.h"
 using namespase std;
-void print_PDD()
+string print_PDD()
 {
-  cout<<"Pavlova Diana Dmitrievna"<<"\n";
+  return "Pavlova Diana Dmitrievna";
 }
