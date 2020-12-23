@@ -1,11 +1,6 @@
-#include<iostream>
-#include"hello_KAR.cpp"
-#include"hello_PDD.cpp"
-#include"hello_AVA.cpp"
-using namespace std;
-void main()
+#include"fio.h"
+int main()
 {
-  print_KAR();
-  print_PDD();
-  print_AVA();
+  cout << print_AVA().c_str() << endl << print_KAR().c_str() << endl print_PDD().c_str() << endl;
+  return 1;
 }
