@@ -1,0 +1,177 @@
+    1  git ll
+    2  pull
+    3  git pull
+    4  help
+    5  git log
+    6  git init
+    7  КАп
+    8  КАП
+    9  .gitignore
+   10  soka.gitignore
+   11  git log
+   12  exit
+   13  св
+   14  cd
+   15  git config
+   16  git config --global user.name "Aital"
+   17  git config --global user.email aitalkor27@gmail.com
+   18  git config --global core.editor nano
+   19  git config --list --global
+   20  git log --oneline --decorate --graph --all
+   21  git config --list --global
+   22  git ll
+   23  git init
+   24  git config --list --global
+   25  git log --online --decorate --graph --all
+   26  git log --oneline --decorate --graph --all
+   27  git config --global alias.ll log
+   28  git config --list --global
+   29  git config --global alias.ll log --oneline -- decorate --graph --all
+   30  git config --list --global
+   31  git config --global alias.ll log --oneline --decorate --graph --all
+   32  git config --list --global
+   33  git config --global alias.ll "log --oneline --decorate --graph --all"
+   34  git config --list --global
+   35  git config --global alias.ll 'log --oneline --decorate --graph --all'
+   36  git config --list --global
+   37  git config --global alias.ll "log --oneline --decorate --graph --all"
+   38  git config --list --global
+   39  git ll
+   40  git config --list --global
+   41  git log --oneline --decorate --graph --all
+   42  git config --global alias.ll log --oneline --decorate --graph --all
+   43  git ll
+   44  git config --global alias.ll "log --oneline --decorate --graph --all"
+   45  git config --list --global
+   46  cd
+   47  cd
+   48  cd
+   49  cd КАП
+   50  mkdir FIO
+   51  cd FIO
+   52  cd
+   53  mkdir КАП
+   54  cd КАП
+   55  git init
+   56  rmdir FIO
+   57  rm FIO
+   58  cd FIO
+   59  cd
+   60  cd FIO
+   61  cd
+   62  rmdir FIO
+   63  cd FIo
+   64  cd FIO
+   65  cd КАП
+   66  cat .gitignore
+   67  nano
+   68  nano
+   69  nano
+   70  nano .gitignore
+   71  cat .gitignore
+   72  git clone
+   73  git clone https://github.com/Figurumi/Team-Mega-People
+   74  git init
+   75  git status
+   76  git add
+   77  git add - all
+   78  git add all
+   79  git add - all
+   80  git add main.cpp
+   81  git add main
+   82  cd
+   83  cd
+   84  cd Desktop
+   85  git clone https://github.com/Figurumi/Team-Mega-People
+   86  git status
+   87  cd Team-Mega-People
+   88  git status
+   89  git hello_AVA
+   90  git hello_AVA.cpp
+   91  git add hello_AVA.cpp
+   92  git add hello_AVA
+   93  git add hello_AVA
+   94  git add main
+   95  git add main.cpp
+   96  cd Team-Mega-People
+   97  cd
+   98  cd Desktop
+   99  git clone Team-Mega-People
+  100  git clone
+  101  git clone https://github.com/Figurumi/Team-Mega-People
+  102  git clone https://github.com/Figurumi/Team-Mega-People
+  103  cd Team-Mega-People
+  104  git add main.cpp
+  105  git add hello_AVA.cpp
+  106  git add hello_KAR.cpp
+  107  git add hello_PDD.cpp
+  108  git add fio.h
+  109  git commit -m "Good job my friend!"
+  110  git commit -m "main.cpp"
+  111  git commit -m
+  112  git commit
+  113  help git commit
+  114  man -k commit
+  115  info commit
+  116  info git commit
+  117  man -k git commit
+  118  man -k git
+  119  man -k git
+  120  git add hello_PDD.cpp
+  121  git add github.com/Figurumi/Team-Mega-People hello_PDD.cpp
+  122  git add hello_PDD.cpp
+  123  git add hello_AVA.cpp
+  124  git add hello_KAR.cpp
+  125  git add main.cpp
+  126  git add fio.h
+  127  git commit "Аим на высоком уровне"
+  128  git commit print_PDD.cpp "Аим на высоком уровне"
+  129  gir status
+  130  git status
+  131  git commit
+  132  cd Desktop
+  133  cd
+  134  cd Desktop
+  135  git add main.cpp
+  136  cd Team-Mega-People
+  137  git add main.cpp
+  138  git status
+  139  git status
+  140  git pull
+  141  git status
+  142  git commit -a
+  143  git commit -a fio.h hello_AVA.cpp
+  144  git commit -a hello_AVA.cpp
+  145  git status
+  146  ls
+  147  git push
+  148  git pull
+  149  git add hello_PDD/cpp
+  150  git add hello_PDD.cpp
+  151  git pull
+  152  g++ main.cpp hello_AVA.cpp hello_KAR.cpp hello_PDD.cpp fio.h -o main
+  153  ./main
+  154  g++ main.cpp hello_AVA.cpp hello_KAR.cpp hello_PDD.cpp fio.h -o main
+  155  g++ main.cpp hello_AVA.cpp hello_KAR.cpp hello_PDD.cpp fio.h -o main
+  156  git commit
+  157  git add main.cpp
+  158  git add main.cpp
+  159  git add hello_AVA.cpp
+  160  git add hello_PDD.cpp
+  161  git add hello_KAR.cpp
+  162  git add hello_KAR.cp
+  163  git add fio.h
+  164  git status
+  165  git aommit
+  166  asfawf
+  167  ads
+  168  aws
+  169  awd
+  170  a
+  171  git commit
+  172  git push
+  173  git pull
+  174  git log
+  175  git reset --hard HEAD^1
+  176  git log
+  177  history
