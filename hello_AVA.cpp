@@ -1,6 +1,5 @@
-#include <iostream>
-using namespace std;
-void print_AVA() 
+#include "fio.h"
+string print_AVA() 
 {
-cout <<"Alekseev Vasiliy Aleksandrovich" << "\n";
+  return "Alekseev Vasiliy Aleksandrovich";
 }
