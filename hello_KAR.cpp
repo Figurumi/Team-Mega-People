@@ -1,11 +1,5 @@
-#include <iostream>
-using namespace std;
+#include "fio.h"
 void print_KAR()
 {
-cout <<"Kirillina Ayaana Ruslanovna" << "\n";
+  return "Kirillina Ayaana Ruslanovna";
 }
-
-
-
-
-
