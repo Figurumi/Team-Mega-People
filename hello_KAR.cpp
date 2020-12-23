@@ -1,5 +1,5 @@
 #include "fio.h"
-void print_KAR()
+string print_KAR()
 {
   return "Kirillina Ayaana Ruslanovna";
 }
